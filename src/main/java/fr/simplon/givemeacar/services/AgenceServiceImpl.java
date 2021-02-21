@@ -1,6 +1,6 @@
 package fr.simplon.givemeacar.services;
 
-import fr.simplon.givemeacar.Agence;
+import fr.simplon.givemeacar.model.Agence;
 import fr.simplon.givemeacar.dao.AgenceDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

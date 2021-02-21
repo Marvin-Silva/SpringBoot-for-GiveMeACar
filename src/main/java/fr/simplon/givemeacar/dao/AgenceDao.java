@@ -1,6 +1,6 @@
 package fr.simplon.givemeacar.dao;
 
-import fr.simplon.givemeacar.Agence;
+import fr.simplon.givemeacar.model.Agence;
 import java.util.List;
 
 public interface AgenceDao {

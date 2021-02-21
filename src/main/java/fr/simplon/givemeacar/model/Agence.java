@@ -1,11 +1,11 @@
-package fr.simplon.givemeacar;
+package fr.simplon.givemeacar.model;
 
 
 public class Agence {
 
 
     private long idAgence;
-private String ville;
+    private String ville;
 
     public Agence(long idAgence, String ville) {
         this.idAgence = idAgence;

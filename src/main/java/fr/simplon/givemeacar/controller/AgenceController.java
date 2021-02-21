@@ -1,6 +1,6 @@
 package fr.simplon.givemeacar.controller;
 
-import fr.simplon.givemeacar.Agence;
+import fr.simplon.givemeacar.model.Agence;
 import fr.simplon.givemeacar.services.AgenceService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
